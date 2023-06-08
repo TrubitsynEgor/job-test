@@ -1,0 +1,14 @@
+//* components basic
+@import "vars";
+@import "../../node_modules/uikit/src/scss/variables.scss";
+@import "../../node_modules/uikit/src/scss/mixins.scss";
+@import "mixins";
+@import "../../node_modules/uikit/src/scss/uikit.scss";
+@import "fonts";
+@import "settings";
+
+
+@import "./components/header";
+
+
+@import "./components/footer";
